@@ -1,0 +1,1 @@
+print("Hol\ta\t\tsoy\t\t un\t\nfututo\nprogramador.")
